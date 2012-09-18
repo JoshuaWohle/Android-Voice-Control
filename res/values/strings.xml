@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, CyanideRobotActivity!</string>
+    <string name="app_name">Cyanide Robot</string>
+    <string name="enter_ip">IP of your robot</string>
+    <string name="stop">STOP ROBOT</string>
+    <string name="start">START ROBOT</string>
+    <string name="port">Port the robot runs on</string>
+    <string name="speech">Start speech recognition</string>
+
+</resources>
